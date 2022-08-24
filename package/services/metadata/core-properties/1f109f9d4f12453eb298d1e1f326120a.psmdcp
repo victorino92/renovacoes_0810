@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>victor_vinicius</dc:creator>
+  <dc:description>Automação para criação dos processos de renovação de seguros no sesuite a partir do relatorio extraido do SIS</dc:description>
+  <dc:identifier>renovacoes_0810</dc:identifier>
+  <version>1.0.10</version>
+  <keywords>VisualBasic VB UiPathStudioProcess</keywords>
+  <lastModifiedBy>NuGet.Packaging, Version=5.8.0.6930, Culture=neutral, PublicKeyToken=31bf3856ad364e35;</lastModifiedBy>
+</coreProperties>
